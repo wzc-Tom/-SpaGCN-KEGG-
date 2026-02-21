@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Nicotinate and nicotinamide metabolism	1/35	1.908703e-02	1.145366e-01	0	0	5.869118e+01	2.323435e+02	NNMT
+KEGG_2021_Human	B cell receptor signaling pathway	1/81	4.366921e-02	1.145366e-01	0	0	2.488625e+01	7.792164e+01	IFITM1
+KEGG_2021_Human	ECM-receptor interaction	1/88	4.736048e-02	1.145366e-01	0	0	2.287586e+01	6.977063e+01	COL1A1
+KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	1/100	5.365826e-02	1.145366e-01	0	0	2.009091e+01	5.876832e+01	COL1A1
+KEGG_2021_Human	Amoebiasis	1/102	5.470420e-02	1.145366e-01	0	0	1.969109e+01	5.721866e+01	COL1A1
+KEGG_2021_Human	Protein digestion and absorption	1/103	5.522678e-02	1.145366e-01	0	0	1.949706e+01	5.646948e+01	COL1A1
+KEGG_2021_Human	HIF-1 signaling pathway	1/109	5.835672e-02	1.145366e-01	0	0	1.840833e+01	5.230140e+01	TIMP1
+KEGG_2021_Human	Platelet activation	1/124	6.614040e-02	1.145366e-01	0	0	1.615122e+01	4.386632e+01	COL1A1
+KEGG_2021_Human	Relaxin signaling pathway	1/129	6.872193e-02	1.145366e-01	0	0	1.551641e+01	4.154808e+01	COL1A1
+KEGG_2021_Human	Focal adhesion	1/201	1.051837e-01	1.339635e-01	0	0	9.894500e+00	2.228288e+01	COL1A1
+KEGG_2021_Human	Diabetic cardiomyopathy	1/203	1.061777e-01	1.339635e-01	0	0	9.795545e+00	2.196789e+01	COL1A1
+KEGG_2021_Human	Proteoglycans in cancer	1/205	1.071708e-01	1.339635e-01	0	0	9.698529e+00	2.166003e+01	COL1A1
+KEGG_2021_Human	Salmonella infection	1/249	1.287653e-01	1.485754e-01	0	0	7.960081e+00	1.631628e+01	S100A10
+KEGG_2021_Human	Human papillomavirus infection	1/331	1.677473e-01	1.783927e-01	0	0	5.957273e+00	1.063550e+01	COL1A1
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	1.783927e-01	1.783927e-01	0	0	5.562606e+00	9.588641e+00	COL1A1

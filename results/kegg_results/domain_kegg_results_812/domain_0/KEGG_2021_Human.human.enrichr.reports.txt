@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Protein digestion and absorption	1/103	1.537120e-02	4.611361e-02	0	0	9.752451e+01	4.071901e+02	ELN
+KEGG_2021_Human	Human T-cell leukemia virus 1 infection	1/219	3.249302e-02	4.873953e-02	0	0	4.536468e+01	1.554525e+02	MSX1
+KEGG_2021_Human	Human papillomavirus infection	1/331	4.883500e-02	4.883500e-02	0	0	2.979848e+01	8.997081e+01	HES6

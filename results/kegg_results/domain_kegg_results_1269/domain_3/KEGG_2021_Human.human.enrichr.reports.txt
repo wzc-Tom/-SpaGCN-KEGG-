@@ -1,0 +1,3 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	African trypanosomiasis	3/37	5.827375e-09	1.165475e-08	0	0	5.988900e+04	1.135537e+06	HBB;HBA2;HBA1
+KEGG_2021_Human	Malaria	3/50	1.469993e-08	1.469993e-08	0	0	5.985000e+04	1.079420e+06	HBB;HBA2;HBA1

@@ -1,0 +1,11 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	GnRH secretion	1/64	1.904927e-02	7.700203e-02	0	0	6.327302e+01	2.506071e+02	SPP1
+KEGG_2021_Human	Antigen processing and presentation	1/78	2.317574e-02	7.700203e-02	0	0	5.173247e+01	1.947546e+02	CD74
+KEGG_2021_Human	ECM-receptor interaction	1/88	2.611435e-02	7.700203e-02	0	0	4.576322e+01	1.668193e+02	SPP1
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	3.080081e-02	7.700203e-02	0	0	3.862330e+01	1.344174e+02	SPP1
+KEGG_2021_Human	Apelin signaling pathway	1/137	4.040731e-02	8.081462e-02	0	0	2.920294e+01	9.370478e+01	SPP1
+KEGG_2021_Human	Tuberculosis	1/180	5.280569e-02	8.401718e-02	0	0	2.213966e+01	6.511577e+01	CD74
+KEGG_2021_Human	Focal adhesion	1/201	5.881203e-02	8.401718e-02	0	0	1.979400e+01	5.608450e+01	SPP1
+KEGG_2021_Human	Human papillomavirus infection	1/331	9.529212e-02	1.129132e-01	0	0	1.191758e+01	2.801593e+01	SPP1
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	1.016219e-01	1.129132e-01	0	0	1.112805e+01	2.544423e+01	SPP1
+KEGG_2021_Human	Herpes simplex virus 1 infection	1/498	1.404190e-01	1.404190e-01	0	0	7.845875e+00	1.540243e+01	CD74

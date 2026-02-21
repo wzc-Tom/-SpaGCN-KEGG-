@@ -1,0 +1,13 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Arachidonic acid metabolism	2/61	1.902713e-04	2.283256e-03	0	0	1.351458e+02	1.157802e+03	GPX3;PTGDS
+KEGG_2021_Human	Cocaine addiction	1/49	1.702686e-02	6.230449e-02	0	0	6.925347e+01	2.820669e+02	PPP1R1B
+KEGG_2021_Human	Glutathione metabolism	1/57	1.978303e-02	6.230449e-02	0	0	5.933631e+01	2.327722e+02	GPX3
+KEGG_2021_Human	Amphetamine addiction	1/69	2.390486e-02	6.230449e-02	0	0	4.883578e+01	1.823369e+02	PPP1R1B
+KEGG_2021_Human	Thyroid hormone synthesis	1/75	2.596020e-02	6.230449e-02	0	0	4.486261e+01	1.638019e+02	GPX3
+KEGG_2021_Human	Dopaminergic synapse	1/132	4.530167e-02	9.060334e-02	0	0	2.526972e+01	7.819491e+01	PPP1R1B
+KEGG_2021_Human	Alcoholism	1/186	6.332057e-02	9.891731e-02	0	0	1.784505e+01	4.924420e+01	PPP1R1B
+KEGG_2021_Human	cAMP signaling pathway	1/216	7.320452e-02	9.891731e-02	0	0	1.533178e+01	4.008492e+01	PPP1R1B
+KEGG_2021_Human	Human T-cell leukemia virus 1 infection	1/219	7.418798e-02	9.891731e-02	0	0	1.511850e+01	3.932554e+01	MSX1
+KEGG_2021_Human	Huntington disease	1/306	1.023219e-01	1.227863e-01	0	0	1.075847e+01	2.452535e+01	GPX3
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	1.206679e-01	1.316378e-01	0	0	9.012856e+00	1.905960e+01	GPX3
+KEGG_2021_Human	Pathways of neurodegeneration	1/475	1.548838e-01	1.548838e-01	0	0	6.863221e+00	1.280046e+01	GPX3

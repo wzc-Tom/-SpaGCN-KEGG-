@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Endocrine and other factor-regulated calcium reabsorption	1/53	7.929257e-03	1.705197e-02	0	0	1.917788e+02	9.276719e+02	CALB1
+KEGG_2021_Human	Glutathione metabolism	1/57	8.525987e-03	1.705197e-02	0	0	1.780446e+02	8.483180e+02	PRDX6
+KEGG_2021_Human	Apelin signaling pathway	1/137	2.041042e-02	2.425231e-02	0	0	7.301838e+01	2.841664e+02	CCN2
+KEGG_2021_Human	Hippo signaling pathway	1/163	2.425231e-02	2.425231e-02	0	0	6.121914e+01	2.276889e+02	CCN2

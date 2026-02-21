@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Thiamine metabolism	1/15	1.045224e-02	6.271345e-02	0	0	1.097363e+02	5.005004e+02	AK1
+KEGG_2021_Human	Peroxisome	1/82	5.591254e-02	1.677376e-01	0	0	1.890313e+01	5.451601e+01	PRDX5
+KEGG_2021_Human	Purine metabolism	1/129	8.663683e-02	1.732737e-01	0	0	1.193389e+01	2.919067e+01	AK1
+KEGG_2021_Human	Salmonella infection	1/249	1.609215e-01	1.931058e-01	0	0	6.122208e+00	1.118429e+01	DYNLRB2
+KEGG_2021_Human	Parkinson disease	1/249	1.609215e-01	1.931058e-01	0	0	6.122208e+00	1.118429e+01	UCHL1
+KEGG_2021_Human	Pathways of neurodegeneration	1/475	2.858214e-01	2.858214e-01	0	0	3.166504e+00	3.965693e+00	UCHL1

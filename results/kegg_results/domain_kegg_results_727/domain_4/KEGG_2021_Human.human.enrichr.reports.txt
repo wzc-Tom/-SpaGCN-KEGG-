@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	ECM-receptor interaction	1/88	1.748534e-02	5.796361e-02	0	0	7.627969e+01	3.086576e+02	CD44
+KEGG_2021_Human	Hematopoietic cell lineage	1/99	1.965478e-02	5.796361e-02	0	0	6.768027e+01	2.659452e+02	CD44
+KEGG_2021_Human	Epstein-Barr virus infection	1/202	3.979478e-02	5.796361e-02	0	0	3.282753e+01	1.058366e+02	CD44
+KEGG_2021_Human	Proteoglycans in cancer	1/205	4.037669e-02	5.796361e-02	0	0	3.233987e+01	1.037949e+02	CD44
+KEGG_2021_Human	Shigellosis	1/246	4.830301e-02	5.796361e-02	0	0	2.687211e+01	8.142952e+01	CD44
+KEGG_2021_Human	MicroRNAs in cancer	1/310	6.057752e-02	6.057752e-02	0	0	2.123732e+01	5.954588e+01	CD44

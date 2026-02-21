@@ -1,0 +1,19 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Vascular smooth muscle contraction	2/133	4.331869e-04	7.797365e-03	0	0	1.010891e+02	7.828682e+02	NPPC;AGT
+KEGG_2021_Human	Renin-angiotensin system	1/23	5.737289e-03	4.808239e-02	0	0	2.269659e+02	1.171319e+03	AGT
+KEGG_2021_Human	Arachidonic acid metabolism	1/61	1.515863e-02	4.808239e-02	0	0	8.306250e+01	3.479642e+02	PTGDS
+KEGG_2021_Human	Cortisol synthesis and secretion	1/65	1.614619e-02	4.808239e-02	0	0	7.785547e+01	3.212372e+02	AGT
+KEGG_2021_Human	Renin secretion	1/69	1.713295e-02	4.808239e-02	0	0	7.326103e+01	2.979344e+02	AGT
+KEGG_2021_Human	Hypertrophic cardiomyopathy	1/90	2.230046e-02	4.808239e-02	0	0	5.591573e+01	2.126558e+02	AGT
+KEGG_2021_Human	Dilated cardiomyopathy	1/96	2.377289e-02	4.808239e-02	0	0	5.236842e+01	1.958165e+02	AGT
+KEGG_2021_Human	Aldosterone synthesis and secretion	1/98	2.426331e-02	4.808239e-02	0	0	5.128351e+01	1.907126e+02	AGT
+KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	1/100	2.475353e-02	4.808239e-02	0	0	5.024242e+01	1.858360e+02	AGT
+KEGG_2021_Human	Insulin resistance	1/108	2.671244e-02	4.808239e-02	0	0	4.646729e+01	1.683336e+02	AGT
+KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	3.427350e-02	4.905972e-02	0	0	3.597283e+01	1.213501e+02	NPPC
+KEGG_2021_Human	Phospholipase D signaling pathway	1/148	3.645983e-02	4.905972e-02	0	0	3.375510e+01	1.117815e+02	AGT
+KEGG_2021_Human	Adrenergic signaling in cardiomyocytes	1/150	3.694514e-02	4.905972e-02	0	0	3.329866e+01	1.098297e+02	AGT
+KEGG_2021_Human	Cushing syndrome	1/155	3.815756e-02	4.905972e-02	0	0	3.220942e+01	1.051970e+02	AGT
+KEGG_2021_Human	cGMP-PKG signaling pathway	1/167	4.106239e-02	4.927487e-02	0	0	2.986295e+01	9.534233e+01	NPPC
+KEGG_2021_Human	Diabetic cardiomyopathy	1/203	4.973482e-02	5.595167e-02	0	0	2.449629e+01	7.351458e+01	AGT
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	8.239979e-02	8.724683e-02	0	0	1.445221e+01	3.607520e+01	AGT
+KEGG_2021_Human	Pathways in cancer	1/531	1.258972e-01	1.258972e-01	0	0	9.181604e+00	1.902694e+01	AGT

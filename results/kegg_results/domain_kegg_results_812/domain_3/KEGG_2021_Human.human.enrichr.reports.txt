@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Proximal tubule bicarbonate reclamation	1/23	6.880968e-03	2.064290e-02	0	0	1.815636e+02	9.040046e+02	AQP1
+KEGG_2021_Human	Renin secretion	1/69	2.052467e-02	2.670119e-02	0	0	5.860588e+01	2.277499e+02	AQP1
+KEGG_2021_Human	Bile secretion	1/90	2.670119e-02	2.670119e-02	0	0	4.473034e+01	1.620601e+02	AQP1

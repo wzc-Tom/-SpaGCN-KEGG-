@@ -1,0 +1,2 @@
+Gene_set,Term,Overlap,P-value,Adjusted P-value,Old P-value,Old Adjusted P-value,Odds Ratio,Combined Score,Genes
+KEGG_2021_Human,Arachidonic acid metabolism,1/61,0.0211586264750493,0.0211586264750493,0,0,55.36944444444445,213.4883869485878,PTGDS

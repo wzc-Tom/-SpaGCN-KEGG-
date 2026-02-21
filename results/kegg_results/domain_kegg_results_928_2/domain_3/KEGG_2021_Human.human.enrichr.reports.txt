@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	JAK-STAT signaling pathway	1/162	2.410473e-02	4.332403e-02	0	0	6.160248e+01	2.294906e+02	GFAP
+KEGG_2021_Human	Epstein-Barr virus infection	1/202	2.999630e-02	4.332403e-02	0	0	4.924378e+01	1.726822e+02	VIM
+KEGG_2021_Human	Human T-cell leukemia virus 1 infection	1/219	3.249302e-02	4.332403e-02	0	0	4.536468e+01	1.554525e+02	MSX1
+KEGG_2021_Human	MicroRNAs in cancer	1/310	4.578500e-02	4.578500e-02	0	0	3.185761e+01	9.824244e+01	VIM

@@ -1,0 +1,18 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Alanine, aspartate and glutamate metabolism	1/37	2.198133e-02	1.478422e-01	0	0	5.038384e+01	1.923434e+02	NAT8L
+KEGG_2021_Human	Bladder cancer	1/41	2.433097e-02	1.478422e-01	0	0	4.533636e+01	1.684702e+02	FGFR3
+KEGG_2021_Human	Vasopressin-regulated water reabsorption	1/44	2.608981e-02	1.478422e-01	0	0	4.216702e+01	1.537498e+02	DYNLL2
+KEGG_2021_Human	Central carbon metabolism in cancer	1/70	4.121176e-02	1.751500e-01	0	0	2.624374e+01	8.369212e+01	FGFR3
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	8.252657e-02	1.846272e-01	0	0	1.270551e+01	3.169560e+01	FGFR3
+KEGG_2021_Human	Cell adhesion molecules	1/148	8.529574e-02	1.846272e-01	0	0	1.227025e+01	3.020483e+01	NRXN2
+KEGG_2021_Human	Wnt signaling pathway	1/166	9.520142e-02	1.846272e-01	0	0	1.092176e+01	2.568537e+01	WIF1
+KEGG_2021_Human	Rap1 signaling pathway	1/210	1.190028e-01	1.846272e-01	0	0	8.603306e+00	1.831307e+01	FGFR3
+KEGG_2021_Human	Regulation of actin cytoskeleton	1/218	1.232681e-01	1.846272e-01	0	0	8.282782e+00	1.733912e+01	FGFR3
+KEGG_2021_Human	Ras signaling pathway	1/232	1.306870e-01	1.846272e-01	0	0	7.775285e+00	1.582232e+01	FGFR3
+KEGG_2021_Human	Calcium signaling pathway	1/240	1.349004e-01	1.846272e-01	0	0	7.511982e+00	1.504814e+01	FGFR3
+KEGG_2021_Human	Salmonella infection	1/249	1.396182e-01	1.846272e-01	0	0	7.236070e+00	1.424669e+01	DYNLL2
+KEGG_2021_Human	Endocytosis	1/252	1.411855e-01	1.846272e-01	0	0	7.148497e+00	1.399447e+01	FGFR3
+KEGG_2021_Human	MAPK signaling pathway	1/294	1.628552e-01	1.937746e-01	0	0	6.110766e+00	1.109039e+01	FGFR3
+KEGG_2021_Human	MicroRNAs in cancer	1/310	1.709776e-01	1.937746e-01	0	0	5.789644e+00	1.022580e+01	FGFR3
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	1.929432e-01	2.050021e-01	0	0	5.056657e+00	8.320019e+00	FGFR3
+KEGG_2021_Human	Pathways in cancer	1/531	2.760227e-01	2.760227e-01	0	0	3.337564e+00	4.296354e+00	FGFR3

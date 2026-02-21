@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Synaptic vesicle cycle	1/78	2.698648e-02	5.884459e-02	0	0	4.310823e+01	1.557250e+02	SLC1A3
+KEGG_2021_Human	Glutamatergic synapse	1/114	3.922973e-02	5.884459e-02	0	0	2.932153e+01	9.495252e+01	SLC1A3
+KEGG_2021_Human	Huntington disease	1/306	1.023219e-01	1.023219e-01	0	0	1.075847e+01	2.452535e+01	SLC1A3

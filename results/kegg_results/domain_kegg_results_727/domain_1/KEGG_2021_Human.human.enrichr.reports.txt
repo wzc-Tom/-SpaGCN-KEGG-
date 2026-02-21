@@ -1,0 +1,10 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Human papillomavirus infection	2/331	5.427931e-03	4.885138e-02	0	0	2.390760e+01	1.247068e+02	HES6;TNC
+KEGG_2021_Human	ECM-receptor interaction	1/88	3.040072e-02	1.175280e-01	0	0	3.813410e+01	1.332134e+02	TNC
+KEGG_2021_Human	Ribosome	1/158	5.401418e-02	1.175280e-01	0	0	2.105732e+01	6.145599e+01	RPLP0
+KEGG_2021_Human	Focal adhesion	1/201	6.827378e-02	1.175280e-01	0	0	1.649417e+01	4.427413e+01	TNC
+KEGG_2021_Human	cAMP signaling pathway	1/216	7.320452e-02	1.175280e-01	0	0	1.533178e+01	4.008492e+01	VIPR2
+KEGG_2021_Human	Coronavirus disease	1/232	7.843931e-02	1.175280e-01	0	0	1.425830e+01	3.629350e+01	RPLP0
+KEGG_2021_Human	MicroRNAs in cancer	1/310	1.035976e-01	1.175280e-01	0	0	1.061704e+01	2.407140e+01	TNC
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	1.134316e-01	1.175280e-01	0	0	9.633824e+00	2.096855e+01	VIPR2
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	1.175280e-01	1.175280e-01	0	0	9.272899e+00	1.985401e+01	TNC

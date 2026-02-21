@@ -1,0 +1,15 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	PPAR signaling pathway	2/74	2.802244e-04	3.923142e-03	0	0	1.106722e+02	9.052899e+02	FABP5;DBI
+KEGG_2021_Human	GnRH secretion	1/64	2.218924e-02	8.758683e-02	0	0	5.272487e+01	2.007841e+02	SPP1
+KEGG_2021_Human	Glycolysis / Gluconeogenesis	1/67	2.321892e-02	8.758683e-02	0	0	5.032071e+01	1.893461e+02	GAPDH
+KEGG_2021_Human	ECM-receptor interaction	1/88	3.040072e-02	8.758683e-02	0	0	3.813410e+01	1.332134e+02	SPP1
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	3.584215e-02	8.758683e-02	0	0	3.218447e+01	1.071302e+02	SPP1
+KEGG_2021_Human	HIF-1 signaling pathway	1/109	3.753721e-02	8.758683e-02	0	0	3.068673e+01	1.007268e+02	GAPDH
+KEGG_2021_Human	Apelin signaling pathway	1/137	4.698247e-02	9.396495e-02	0	0	2.433456e+01	7.441461e+01	SPP1
+KEGG_2021_Human	Pathogenic Escherichia coli infection	1/197	6.695513e-02	9.650552e-02	0	0	1.683418e+01	4.551513e+01	GAPDH
+KEGG_2021_Human	Focal adhesion	1/201	6.827378e-02	9.650552e-02	0	0	1.649417e+01	4.427413e+01	SPP1
+KEGG_2021_Human	Diabetic cardiomyopathy	1/203	6.893251e-02	9.650552e-02	0	0	1.632921e+01	4.367455e+01	GAPDH
+KEGG_2021_Human	Salmonella infection	1/249	8.397349e-02	1.068753e-01	0	0	1.326949e+01	3.287190e+01	GAPDH
+KEGG_2021_Human	Human papillomavirus infection	1/331	1.102695e-01	1.222343e-01	0	0	9.930808e+00	2.189572e+01	SPP1
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	1.175280e-01	1.222343e-01	0	0	9.272899e+00	1.985401e+01	SPP1
+KEGG_2021_Human	Alzheimer disease	1/369	1.222343e-01	1.222343e-01	0	0	8.888134e+00	1.868122e+01	GAPDH
